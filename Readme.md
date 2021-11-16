@@ -1,4 +1,4 @@
-## About how many hours did it take for you to implement this task?
+# About how many hours did it take for you to implement this task?
 
 It took me about 2 hours to get everything installed and became familiar with Empirica. I only spent half an hour coding so the end result still showed a lot of the template code. 
 
